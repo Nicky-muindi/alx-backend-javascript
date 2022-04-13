@@ -62,7 +62,7 @@ console.log(director1);
   + It accepts two arguments firstName and lastName
    It returns the first letter of the firstName and the full lastName
 **Example**:
-``
+```
 printTeacher("John", "Doe") -> J. Doe
 ```
    + Write an interface for the function named printTeacherFunction.
@@ -73,6 +73,7 @@ printTeacher("John", "Doe") -> J. Doe
 + [x] [5. Advanced types Part 1](./task_2/js/main.ts)
 
 + Create the DirectorInterface interface with the 3 expected methods:
+```
 workFromHome() returning a string
 getCoffeeBreak() returning a string
 workDirectorTasks() returning a string
@@ -97,7 +98,8 @@ It can return either a Director or a Teacher instance
 It accepts 1 arguments:
 salary(either number or string)
 if salary is a number and less than 500 - It should return a new Teacher. Otherwise it should return a Director
-**Expected result**:
+```
+**Expected result:**:
 ```
 console.log(createEmployee(200));
 Teacher
