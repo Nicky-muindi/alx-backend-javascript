@@ -20,13 +20,13 @@ This project contains files of tasks done while learning typescript.:
 
 + [x] [3. Printing teachers](./task_1/js/main.ts)
 
-+ Write a function printTeacher:
++ Write a function printTeacher
 
-+ [4] [4. Writing a class](./task_1/js/main.ts)
++ [x] [4. Writing a class](./task_1/js/main.ts)
 
-+ Write a Class named StudentClass:
++ Write a Class named StudentClass
 
-+ [x][5. Advanced types Part 1](./task_2/js/main.ts)
++ [x] [5. Advanced types Part 1](./task_2/js/main.ts)
 
 + Create the DirectorInterface interface with the 3 expected methods:
 
@@ -65,4 +65,4 @@ Write a function named teachClass:
 
 ## Author
 
-* [**Nicholas M Mwanza**](./https://github.com/Nicky-muindi)
+[**Nicholas M Mwanza**](./https://github.com/Nicky-muindi)
