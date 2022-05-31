@@ -33,7 +33,7 @@ Nodemon documentation
 
 * Using the database database.csv (provided in project description), create a function countStudents in the file 2-read_file.js
 
-+ [x] [3. Reading a file asynchronously with Node JS](./ 3-read_file_async.js)
++ [x] [3. Reading a file asynchronously with Node JS](./3-read_file_async.js)
 
 * Using the database database.csv (provided in project description), create a function countStudents in the file 3-read_file_async.js
 
